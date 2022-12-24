@@ -2,12 +2,12 @@ Aplicação back de um sistema web de gerenciamento de finanças utilizando Spri
 
 ##
 
-Tecnologias no back:
--Java(Spring Boot)
+Tecnologias no back: <br />
+-Java(Spring Boot) <br />
 -SQL(PostgreSQL)
 
-Ferramentas utilizadas:
--Eclipse IDE
+Ferramentas utilizadas: <br />
+-Eclipse IDE <br />
 -Apache Maven
 
 ##
