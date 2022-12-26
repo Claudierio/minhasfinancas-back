@@ -1,4 +1,4 @@
-package com.baltz.minhasfinancas.model.entity;
+package com.baltz.minhasfinancas.model.enums;
 
 public enum TipoLancamento {
 	
